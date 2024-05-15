@@ -4,7 +4,6 @@ Software Developer with experience and knowledge gained through participation in
 
 [![Linkedin Badge](https://img.shields.io/badge/-KendallBrown-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Gmail Badge](https://img.shields.io/badge/-kenbrojim21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kenbrojim21@gmail.com)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Kendall2106.visitor-badge&left_color=black)
 
 ## ⚡ Technologies
 
