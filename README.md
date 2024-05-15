@@ -1,6 +1,6 @@
 ## Hello, I'm Kendall Brown <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Desarrollador de Software con experiencia y conocimientos adquiridos a través de la participación en diversos proyectos académicos.  A lo largo de mi carrera, he desarrollado habilidades interpersonales clave, como la capacidad de trabajar en equipo con una comunicación asertiva y efectiva.
+Software Developer with experience and knowledge gained through participation in various academic projects. Throughout my career, I have developed key interpersonal skills, such as the ability to work effectively in teams with assertive and effective communication.
 
 [![Linkedin Badge](https://img.shields.io/badge/-KendallBrown-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Gmail Badge](https://img.shields.io/badge/-kenbrojim21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kenbrojim21@gmail.com)
